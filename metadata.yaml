@@ -1,0 +1,22 @@
+_repo: Stammering-Its-Cause-and-Cure_4256
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bogue, Benjamin Nathaniel
+    gutenberg_agent_id: '1420'
+    url: http://www.gutenberg.org/2009/agents/1420
+description: ''
+gutenberg_issued: '2003-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4256'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Stuttering'
+- !lcc 'RC'
+- GITenberg
+title: Stammering, Its Cause and Cure
+url: http://www.gutenberg.org/ebooks/4256
