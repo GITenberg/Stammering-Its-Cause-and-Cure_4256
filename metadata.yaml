@@ -1,11 +1,16 @@
 _repo: Stammering-Its-Cause-and-Cure_4256
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bogue, Benjamin Nathaniel
     gutenberg_agent_id: '1420'
     url: http://www.gutenberg.org/2009/agents/1420
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4256#Stammering-Its-Cause-and-Cure
 gutenberg_issued: '2003-07-01'
 gutenberg_type: Text
 identifiers:
